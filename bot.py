@@ -36,7 +36,7 @@ class Bot(Client):
         try:
             await self.send_message(
                 chat_id=OWNER_ID,
-                text="<b><blockquote>🤖 Bot Restarted ♻️</blockquote></b>",
+                text="<b><blockquote>🌊 “The waves called me back — I’m alive again!”</blockquote></b>",
                 parse_mode=ParseMode.HTML
             )
         except Exception as e:
