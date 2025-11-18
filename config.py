@@ -30,13 +30,13 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 START_PIC = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
 START_IMG = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
 # Messages
-START_MSG = os.environ.get("START_MESSAGE", """<blockquote>𝐘𝐎 {mention}!</blockquote>
+START_MSG = os.environ.get("START_MESSAGE", """<blockquote>𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐝𝐞𝐯𝐢𝐥 𝐟𝐫𝐮𝐢𝐭 𝐮𝐬𝐞𝐫!</blockquote>
 <blockquote>𝐈’𝐌 𝐘𝐎𝐔𝐑 𝐋𝐈𝐍𝐊 𝐒𝐇𝐀𝐑𝐄 𝐁𝐎𝐓, 𝐀𝐍𝐃 𝐉𝐔𝐒𝐓 𝐋𝐈𝐊𝐄 𝐌𝐎𝐍𝐊𝐄𝐘 𝐃. 𝐋𝐔𝐅𝐅𝐘, 𝐈 𝐊𝐄𝐄𝐏 𝐓𝐇𝐈𝐍𝐆𝐒 𝐒𝐈𝐌𝐏𝐋𝐄.</blockquote>
 <blockquote>𝐒𝐄𝐍𝐃 𝐌𝐄 𝐀𝐍𝐘 𝐅𝐈𝐋𝐄 𝐀𝐍𝐃 𝐈’𝐋𝐋 𝐓𝐔𝐑𝐍 𝐈𝐓 𝐈𝐍𝐓𝐎 𝐀 𝐂𝐋𝐄𝐀𝐍, 𝐅𝐀𝐒𝐓, 𝐒𝐇𝐀𝐑𝐄𝐀𝐁𝐋𝐄 𝐋𝐈𝐍𝐊!</blockquote>
 <blockquote>𝐒𝐎 𝐂𝐎𝐌𝐄 𝐎𝐍 𝐍𝐀𝐊𝐀𝐌𝐀 — 𝐃𝐑𝐎𝐏 𝐘𝐎𝐔𝐑 𝐅𝐈𝐑𝐒𝐓 𝐅𝐈𝐋𝐄 𝐀𝐍𝐃 𝐋𝐄𝐓’𝐒 𝐒𝐄𝐓 𝐒𝐀𝐈𝐋 𝐓𝐎 𝐓𝐇𝐄 𝐆𝐑𝐀𝐍𝐃 𝐋𝐈𝐍𝐄 𝐎𝐅 𝐋𝐈𝐍𝐊𝐒! 🌊🏴‍☠️</blockquote>
 <blockquote>🌊 𝐁𝐚𝐜𝐤𝐞𝐝 𝐛𝐲 <a href='https://t.me/Botskingdoms'>✦ 𝗕𝗢𝗧𝗦 𝗞𝗜𝗡𝗚𝗗𝗢𝗠𝗦 ✦</a></blockquote>""")
-HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/proyato>Yato</a>\n» Our Community: <a href=https://t.me/otakuflix_network>Flix Network</a>\n» Anime Channel: <a href=https://t.me/animes_cruise>Anime Cruise</a>\n» Ongoing Anime: <a href=https://t.me/Ongoing_cruise>Ongoing cruise</a>\n» Developer: <a href=https://t.me/onlyyuji>Yuji</a></b>")
-ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Yato (@ProYato) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
+HELP = os.environ.get("HELP_MESSAGE", "𝐍𝐎𝐓𝐇𝐈𝐍𝐆 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄\n\n𝐉𝐮𝐬𝐭 𝐟𝐮𝐜𝐤 𝐨𝐟 𝐦𝐚𝐧[𝐌𝐟]")
+ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by 𝐁𝐎𝐓𝐒𝐊𝐈𝐍𝐆𝐃𝐎𝐌𝐒 + 𝐀𝐈 to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
 ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakuflix_network'>ᴏᴛᴀᴋᴜғʟɪx</a>
 <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
